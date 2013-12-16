@@ -1,0 +1,5 @@
+package plugins.SuperSmashBros.items;
+
+public class items {
+// Not sure if this class is in the right spot, but it will have to do.
+// I will contiue to add the items here, and a system to spawn them when the arena setup is finished
